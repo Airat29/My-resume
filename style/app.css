@@ -17,14 +17,14 @@
     color: #eee;
     font: 18px/1.5 Comfortaa, sans-serif;
   
-    background-color: orange;
+    background: linear-gradient(#ff9800, #ffeb3b);
   }
   
   h1,
   h2,
   h3,
   h4 {
-    color: #fd7014;
+    color: black;
   }
    
   h1 {
@@ -47,5 +47,9 @@
     color: #fd7014;
     font-weight: bold;
     font-variant: small-caps;
+  }
+
+  .image {
+    image: url("/assets/images/images.png");
   }
   
